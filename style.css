@@ -1,0 +1,13 @@
+hr {
+    background-color:black;
+    width:100px;
+    height:2px;
+}
+
+img {
+    transition: transform 1.2s;
+}
+
+img:hover{
+    transform: scale(1.5);
+}s
